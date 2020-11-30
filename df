@@ -1,0 +1,291 @@
+[33mcommit fd2a469fb351ab38ca1c58268eda764d6acc0a2c[m
+Author: unknown <F1334153@atm.systemplus.foxconn.com>
+Date:   Thu Jul 9 17:45:08 2020 +0800
+
+    scr修改
+
+[33mcommit b24cb13a49915bc9368770e1638bae32de937f96[m
+Author: unknown <F1334153@atm.systemplus.foxconn.com>
+Date:   Fri Jun 19 14:01:26 2020 +0800
+
+    si trend修改
+
+[33mcommit 18f198cf645ea6627bf48a5563aac511e907ef3b[m
+Author: unknown <F1334153@atm.systemplus.foxconn.com>
+Date:   Mon Jun 8 16:50:35 2020 +0800
+
+    优化
+
+[33mcommit 85c72cfec991701309ab674c755d7f148a7fa7d1[m
+Author: unknown <F1334153@atm.systemplus.foxconn.com>
+Date:   Thu May 14 10:45:11 2020 +0800
+
+    scr新增po—-pf表格
+
+[33mcommit d4627771783f3f97fc62141792b9468a11edff01[m
+Author: unknown <F1334153@atm.systemplus.foxconn.com>
+Date:   Mon Mar 16 17:02:21 2020 +0800
+
+    五个feedback报表添加提醒数据更新语
+
+[33mcommit 5d0cbedcc40a59e8d4471f7310a0b6c62c78a3a3[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Fri Dec 20 15:16:03 2019 +0800
+
+    SCR 修复bug
+
+[33mcommit 0f687c6516e83a90f8c70405c2390c68e22ddb2d[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Sat Dec 14 15:21:13 2019 +0800
+
+    dmd添加type下拉选项框
+
+[33mcommit 842018d4931c9e11c968b1ca4393cb400ca11d86[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Fri Dec 13 17:15:59 2019 +0800
+
+    report模块添加筛选功能，并修改bug
+
+[33mcommit 7d86236c3645261048f6542273e731ac2af156da[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Wed Dec 11 08:16:05 2019 +0800
+
+    visualSCR功能大部分完成
+
+[33mcommit 2c8bcfc6b3bcd669ffef2afc885f2a74f7ed7d03[m
+Merge: ba5aeb2 9282451
+Author: Lemon <nami.m.li@mail.foxconn.com>
+Date:   Wed Nov 6 10:31:28 2019 +0800
+
+    Merge branch 'lemon16' into 'master'
+    
+    inventory纵坐标可以不从0开始
+    
+    See merge request Xeric/official-version-odin!11
+
+[33mcommit 9282451536e2b4c6990c346287abefe514ac5856[m
+Merge: 80028ea ba5aeb2
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Wed Nov 6 10:31:19 2019 +0800
+
+    inventory纵坐标可以不从0开始
+
+[33mcommit 80028ea28db1197e18dfe261f6f0be4fb3bf2c01[m
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Wed Nov 6 10:20:53 2019 +0800
+
+    inventory纵坐标可以不从0开始
+
+[33mcommit ba5aeb2b9896f6da6d75e10ae1c660bb04df0a09[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Mon Nov 4 09:18:02 2019 +0800
+
+    otc_otr修改，report新建tableau
+
+[33mcommit c0755935e7dfa57134db10e2f30d16bff76de9a9[m
+Merge: eba306a a164f51
+Author: Lemon <nami.m.li@mail.foxconn.com>
+Date:   Wed Oct 30 11:26:42 2019 +0800
+
+    Merge branch 'lemon15' into 'master'
+    
+    bug
+    
+    See merge request Xeric/official-version-odin!10
+
+[33mcommit a164f5148610fff577fb57b8a7130c41a2b1cd47[m
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Wed Oct 30 11:27:03 2019 +0800
+
+    bug
+
+[33mcommit eba306a34e423ff6019ebabeb90bb302138a009f[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Wed Oct 30 11:16:03 2019 +0800
+
+    report修改，inventory修改栏位顺序，邮件更改下拉选项
+
+[33mcommit dbff3822c81e2cccc465bbd7f399cbb8dac093c6[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Mon Oct 28 14:04:19 2019 +0800
+
+    inbound表修改栏位字段名
+
+[33mcommit 587f489504886c5aec57eb4fa03e883dac2d1bcf[m
+Merge: dfa3fe3 b46cc19
+Author: Lemon <nami.m.li@mail.foxconn.com>
+Date:   Mon Oct 21 17:41:48 2019 +0800
+
+    Merge branch 'lemon15' into 'master'
+    
+    edi和inventory部分修改
+    
+    See merge request Xeric/official-version-odin!8
+
+[33mcommit b46cc19cf66107c1c786fa721a9ed63e8a25b5fa[m
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Mon Oct 21 17:40:29 2019 +0800
+
+    EDI和Inventory部分的修改
+
+[33mcommit dfa3fe31c8c436601f8b7061031f734f7b9690e8[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Mon Oct 21 17:28:36 2019 +0800
+
+    inventory数据调换顺序
+
+[33mcommit c5f83e32d9ca66a3e4619a292454b114396905d6[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Mon Oct 21 16:54:20 2019 +0800
+
+    invertery调换负号的顺序
+
+[33mcommit b87f2dc5b868fb02d575c5bb9414d68796fc517b[m
+Merge: 98d02e5 cafabae
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Fri Oct 18 08:25:49 2019 +0800
+
+    修改
+
+[33mcommit 98d02e50c38e96b7adc8bfb504226c7f6c54c4f5[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Fri Oct 18 08:24:12 2019 +0800
+
+    feedback
+
+[33mcommit cafabae32b1530fbcd59fd2cfc2feba5e873fd60[m
+Merge: 905da47 d54c1bf
+Author: Lemon <nami.m.li@mail.foxconn.com>
+Date:   Thu Oct 17 16:54:11 2019 +0800
+
+    Merge branch 'lemon15' into 'master'
+    
+    ss analysis修改+EDI添加筛选框（接口待接入）
+    
+    See merge request Xeric/official-version-odin!5
+
+[33mcommit d54c1bf15253fa3729fe566ac77625dbc6e1f422[m
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Thu Oct 17 16:54:35 2019 +0800
+
+    ss analysis修改+EDI添加筛选框（接口待接入）
+
+[33mcommit 905da4791886926664302b9466f1823a072f154e[m
+Merge: 266e1ae 00736f2
+Author: Lemon <nami.m.li@mail.foxconn.com>
+Date:   Tue Oct 15 14:06:59 2019 +0800
+
+    Merge branch 'lemon14' into 'master'
+    
+    Lemon14
+    
+    See merge request Xeric/official-version-odin!4
+
+[33mcommit 266e1ae11fc27e248587c2aba76edcd381ed50f8[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Tue Oct 15 14:03:23 2019 +0800
+
+    scr部分修改
+
+[33mcommit 00736f2a206b6f47147d0aa43b52d23b9e810d69[m
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Tue Oct 15 14:02:23 2019 +0800
+
+    inventory
+
+[33mcommit a64ddaaf4e0787b6ff972bdb29f734d0a5b9f678[m
+Merge: 5c2c8fc c6d61d9
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Mon Oct 14 10:05:48 2019 +0800
+
+    Merge branch 'master' of 10.124.128.104:Xeric/official-version-odin
+
+[33mcommit c36c76decbceb8b5771cf70f7c5a28508089040e[m
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Sat Oct 12 13:55:35 2019 +0800
+
+    foc改为fol，cdf改为foc（部分）
+
+[33mcommit 5c2c8fc4a35e6feaf0b3820ab41316145bdd8207[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Fri Oct 11 16:38:19 2019 +0800
+
+    scr添加文件生成历史记录
+
+[33mcommit c6d61d9cda12294c87813fce684203d33079c4b7[m
+Merge: 545d914 0037dd4
+Author: Lemon <nami.m.li@mail.foxconn.com>
+Date:   Fri Oct 11 16:10:09 2019 +0800
+
+    Merge branch 'lemon14' into 'master'
+    
+    换远端库后的代码合并
+    
+    See merge request Xeric/official-version-odin!3
+
+[33mcommit 0037dd4c0ebfc7cb20867c93801522ec46f68ff1[m
+Merge: 6b7ef20 545d914
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Fri Oct 11 16:02:13 2019 +0800
+
+    换远端库后的代码合并
+
+[33mcommit 545d914693a763a70f20c0e44b0a98736ff5adbd[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Fri Oct 11 11:31:44 2019 +0800
+
+    first commit
+
+[33mcommit 82c1173927ab5610a2ffe9cc399dc5b6d9f22501[m
+Author: eric <eric.r.xiang@mail.foxconn.com>
+Date:   Fri Oct 11 11:20:11 2019 +0800
+
+    add README
+
+[33mcommit 6b7ef204037153290830065a0a68a60532ebd063[m
+Merge: 1b8c4ee 6aac6cf
+Author: 李妙 <nami.m.li@foxconn.com>
+Date:   Fri Sep 27 15:29:52 2019 +0800
+
+    合并分支 'lemon13' 到 'master'
+    
+    ss模块
+    
+    查看合并请求 eric/ODIN-Formal-Version!44
+
+[33mcommit 6aac6cfdb2023b399e35ac42b2c2f3efaf5cd735[m
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Fri Sep 27 15:29:09 2019 +0800
+
+    ss模块
+
+[33mcommit 1b8c4ee7a6767fe0ba8e020dcd962e5d954388f6[m
+Author: unknown <F1334153@atm.systemplus.foxconn.com>
+Date:   Fri Sep 27 09:43:28 2019 +0800
+
+    feedback提交测试版本
+
+[33mcommit 5ffc4e7a4cccf55d786141ee79b2e2f6e7402f57[m
+Merge: 065a11d bcc57bc
+Author: 李妙 <nami.m.li@foxconn.com>
+Date:   Thu Sep 19 17:26:36 2019 +0800
+
+    合并分支 'lemon12' 到 'master'
+    
+    ss和注册页增加字段
+    
+    查看合并请求 eric/ODIN-Formal-Version!43
+
+[33mcommit bcc57bc51bc3ec31bf59db49a220ce28e11f2db1[m
+Author: lemon <nami.m.li@foxconn.com>
+Date:   Thu Sep 19 17:25:52 2019 +0800
+
+    ss和注册页增加字段
+
+[33mcommit 065a11df00244eb443e89199680970a34a5a9454[m
+Author: unknown <F1334153@atm.systemplus.foxconn.com>
+Date:   Tue Sep 17 16:58:33 2019 +0800
+
+    scr修改
+
+[33mcommit 3863d3b29cacebdbebd7787191eb
